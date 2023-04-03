@@ -25,3 +25,5 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+**/ios/GoogleService-Info.plist
+**/android/app/google-services.json
